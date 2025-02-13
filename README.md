@@ -203,7 +203,7 @@ Add this line:
 
 ## **Author**
 
-- **Name**: Aarab Ayoub
+- **Name**: Alae Belaizi
 - **Email**: albelaiz\@student.1337.ma
 
 
